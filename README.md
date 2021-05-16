@@ -1,4 +1,8 @@
 # Discord-poketwo-autocatcher
+I suggest it to be imported to replit and run there 
+
+In case you don't know- If it asks for language select python and in the run section write "Python main.py"
+
 This is an autocatcher for Poketwo bot on Discord
 
 How to setup:
