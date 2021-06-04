@@ -1,5 +1,6 @@
 # Discord-poketwo-autocatcher
 I suggest it to be imported to replit and run there 
+You can fork from here: https://replit.com/@ParthKatiyar1/third-catch-2#readme.md
 
 In case you don't know- If it asks for language select python and in the run section write "Python main.py"
 
@@ -18,3 +19,6 @@ paste the url that appears on the right after you run it there should be somethi
 commands:
 .say <message> control the bot from another account
 .catchrate calculate your catchrate
+
+  
+  In case you are having problems here's the link to the support server. Just ping Patrick jane there https://discord.gg/hqeXkjcb9c
